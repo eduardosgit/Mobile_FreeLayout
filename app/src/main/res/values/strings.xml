@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FreeLayout</string>
+    <string name="bt_1">1</string>
+    <string name="op_1">À moda do freguês</string>
+    <string name="op_11">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_2">2</string>
+    <string name="op_2">4 Queijos</string>
+    <string name="op_22">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_3">3</string>
+    <string name="op_3">5 Queijos</string>
+    <string name="op_33">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_4">4</string>
+    <string name="op_4">6 Queijos</string>
+    <string name="op_44">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_5">5</string>
+    <string name="op_5">À moda da casa</string>
+    <string name="op_55">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_6">6</string>
+    <string name="op_6">À parmegiana</string>
+    <string name="op_66">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_7">7</string>
+    <string name="op_7">Aliche</string>
+    <string name="op_77">Escolha no maximo 5 ingredientes</string>
+
+    <string name="bt_8">8</string>
+    <string name="op_8">Portuguesa</string>
+    <string name="op_88">Escolha no maximo 5 ingredientes</string>
+</resources>
