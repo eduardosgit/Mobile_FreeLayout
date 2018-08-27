@@ -15,7 +15,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="20dp">
 
             <TextView
                 android:id="@+id/textView1"
@@ -61,7 +62,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay2"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -108,7 +110,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay3"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -155,7 +158,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay4"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -202,7 +206,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay5"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -249,7 +254,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay6"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -296,7 +302,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay7"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
@@ -343,7 +350,8 @@
         <android.support.constraint.ConstraintLayout
             android:id="@+id/lay8"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent">
 
